@@ -37,7 +37,6 @@ namespace random {
 	};
 }
 
-
 template <int A, char B>
 struct xor_str_t {
 private:
